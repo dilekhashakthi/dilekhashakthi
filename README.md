@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilekhashakthi&label=Profile%20views&color=0e75b6&style=flat" alt="dilekhashakthi" /> </p>
 
+---
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Angular, React and SpringBoot**
