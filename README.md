@@ -40,12 +40,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilekhashakthi&show_icons=true&locale=en&layout=compact" alt="dilekhashakthi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilekhashakthi&show_icons=true&locale=en" alt="dilekhashakthi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilekhashakthi&" alt="dilekhashakthi" /></p>
-
 <!-- <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dilekhashakthi&theme=dark&hide_border=true"/>
 </p> -->
