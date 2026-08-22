@@ -18,11 +18,17 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<table><tr>
-<td><a href="https://fb.com/dileka.shakthi.9" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="40" width="40"/></a></td>
-<td><a href="https://instagram.com/dileka_20" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40"/></a></td>
-<td><a href="https://linkedin.com/in/dilekha-shakthi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40"/></a></td>
-</tr></table>
+<div data-importer="socials" align="left">
+  <a href="https://fb.com/dileka.shakthi.9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://instagram.com/dileka_20" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/dilekha-shakthi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div data-importer="techs" align="left">
