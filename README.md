@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <div data-importer="socials" align="left">
-  <a href="https://fb.com/dileka.shakthi.9" target="_blank">
+  <a href="https://www.facebook.com/share/18LnyeQw4W/?mibextid=wwXIfr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/dileka_20" target="_blank">
+  <a href="https://www.instagram.com/dilekha_20?igsi=MTRwZDdwZ28yeDN0dQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="www.linkedin.com/in/dilekha-shakthi" target="_blank">
