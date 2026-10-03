@@ -5,30 +5,46 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Angular, React and SpringBoot**
-
-- 📫 How to reach me **dilekhashakthi00@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gsg8aitXOQJLh3p5ug4lT8eefOjEYKRC/view?usp=sharing](https://drive.google.com/file/d/1gsg8aitXOQJLh3p5ug4lT8eefOjEYKRC/view?usp=sharing)
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<div data-importer="socials" align="left">
-  <a href="https://www.facebook.com/share/18LnyeQw4W/?mibextid=wwXIfr" target="_blank">
+<div data-importer="socials" align="center">
+  <a href="https://www.facebook.com/share/1HtzjjJVEa/?mibextid=wwXIfr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/dilekha_20?igsi=MTRwZDdwZ28yeDN0dQ%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/dilekha_20?stkn=MTRwZDdwZ28yeDN0dQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/dilekha-shakthi/" target="_blank">
+  <a href="www.linkedin.com/in/dilekha-shakthi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="dilekhashakthi00@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://dilekhapalihawadana.me" target="_blank">
+  <img
+   src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f310.svg"
+    width="52"
+    height="40"
+    alt="portfolio logo"
+  />
+</a>
 </div>
+
+---
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+- 🎓 BSc in Applied Sciences
+- 💼 Completed a 6-month Full Stack Developer internship
+- ⚛️ Experienced with React.js, Next.js and modern frontend development
+- 🟦 Building applications with JavaScript and TypeScript
+- 🟢 Experienced with Node.js, Express.js and REST APIs
+- ☕ Backend development with Java, Spring Boot, Node.js and Express.js
+- 🗄️ Working with MongoDB and MySQL
+- 🐳 Exploring Docker and modern DevOps practices
+- 📱 Currently exploring Flutter
+- 🤖 Interested in AI-powered software applications
+- 🌱 Continuously learning modern software engineering practices
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <div data-importer="techs" align="left">
