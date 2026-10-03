@@ -37,7 +37,7 @@
 - ⚛️ Experienced with React.js, Next.js and modern frontend development
 - 🟦 Building applications with JavaScript and TypeScript
 - 🟢 Experienced with Node.js, Express.js and REST APIs
-- ☕ Backend development with Java, Spring Boot, Node.js and Express.js
+- ☕ Backend development with Java, and Spring Boot
 - 🗄️ Working with MongoDB and MySQL
 - 🐳 Exploring Docker and modern DevOps practices
 - 📱 Currently exploring Flutter
